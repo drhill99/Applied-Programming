@@ -1,10 +1,10 @@
 # Overview
 
-My current goals as an Embedded Software Engineer is to further my skill with a variety of programming languages, and gain further experience operating with a team utilizing the agile scrum/sprint methodology.
+My current goals as an Embedded Software Engineer are to further my skill with a variety of programming languages, and gain further experience operating with a team utilizing the agile scrum/sprint methodology.
 
 The software in this repository is a simple program demonstrating the use of numpy to build a 2-dimensional array of Complex64 numbers. A complex number contains a real portion, and an imaginary portion. In a complex64 number each portion is float comprised of 32 bits of resolution.
 
-At the present time the listed software was created simply as a firt commit when creating the repository.
+At the present time the listed software was created simply as a first commit when creating the repository.
 
 
 
